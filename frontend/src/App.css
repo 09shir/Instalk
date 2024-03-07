@@ -1,0 +1,20 @@
+.background{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
+    overflow-y: hidden;
+}
+
+.background::-webkit-scrollbar {
+    display: none;
+}
+
+.userIcon {
+    padding: 0;
+    width: 8%;
+    float: left;
+}
+
+.userName {
+    float: left;
+}
